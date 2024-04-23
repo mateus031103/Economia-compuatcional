@@ -1,0 +1,2 @@
+# PROJETO DO SOFTWARE
+Usar a função exponencial para determinar qual o montante representativo para o período de tempo exposto pelo usuário. Dessa maneira, determinando o valor capitalizado do investimento, assim como o retorno obtido.
